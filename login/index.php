@@ -91,7 +91,7 @@ if(isset($_POST['logstu'])){
     </head>
     <body>
         <a href="../admin/admin-login.php"><div class="admin">Admin</div></a>
-        <h1 align = "center">VESIT Placement Management System</h1>
+        <h1 align = "center">Placement Management System</h1>
         <div class="student">
             <div class="alreadyAcc" id="alreadyAcc" style="display: none">
                 Seems Like given email-id is already registered with us!</br>
